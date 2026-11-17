@@ -38,13 +38,7 @@ Hey, I'm Jaden. This is my personal corner of GitHub: side projects and experime
 
 ### On the radar
 
-Projects I fork, read and borrow ideas from:
-[openclaw](https://github.com/openclaw/openclaw) ·
-[superpowers](https://github.com/obra/superpowers) ·
-[anthropics/skills](https://github.com/anthropics/skills) ·
-[spec-kit](https://github.com/github/spec-kit) ·
-[ollama](https://github.com/ollama/ollama) ·
-[deer-flow](https://github.com/bytedance/deer-flow)
+Projects I fork, read and borrow ideas from: [openclaw](https://github.com/openclaw/openclaw) · [superpowers](https://github.com/obra/superpowers) · [anthropics/skills](https://github.com/anthropics/skills) · [spec-kit](https://github.com/github/spec-kit) · [ollama](https://github.com/ollama/ollama) · [deer-flow](https://github.com/bytedance/deer-flow)
 
 ### Where the work lives
 
